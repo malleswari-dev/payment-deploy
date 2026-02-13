@@ -1,5 +1,5 @@
 deployment:
-  imageRepo: joindevops/payment:v1
+  imageRepo: 372836560231.dkr.ecr.us-east-1.amazonaws.com/roboshop/payment
   imageVersion: IMAGE_VERSION
 service:
   type: ClusterIP 
